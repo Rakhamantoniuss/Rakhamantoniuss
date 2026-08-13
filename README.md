@@ -1,8 +1,8 @@
 # Hi, I'm Rakhamantonius Mosse 👋
 
-### Information Systems Student | IT Support | Data & System Enthusiast
+### Information Systems Student | Data & System Enthusiast
 
-I'm an **Information Systems student at Universitas Kristen Satya Wacana (UKSW)** with an interest in **IT Support, Data Analytics, Database Management, and Information Systems Development**.
+I'm an **Information Systems student at Universitas Kristen Satya Wacana (UKSW)** with an interest in **Data Analytics, Database Management, and Information Systems Development**.
 
 I enjoy learning how technology can be used to solve problems, improve business processes, and turn data into useful information. I also have experience working on academic projects involving databases, system analysis, data visualization, and application development.
 
@@ -126,20 +126,12 @@ I'm currently focusing on improving my skills in:
 
 ---
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
-
----
-
 ## Let's Connect
 
 I'm always open to learning, collaborating, and discussing **technology, data, information systems, and software development**.
 
-📧 Email: **[your-email@example.com](mailto:your-email@example.com)**
-💼 LinkedIn: **your-linkedin-url**
+📧 Email: **mosserakham@gmail.com**
+💼 LinkedIn: **https://www.linkedin.com/in/rakhamantoniusmosse/**
 
 ---
 
